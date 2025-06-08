@@ -1,0 +1,33 @@
+# Python virtual environments
+venv/
+*.venv/
+.env/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+
+# Compiled model files
+*.model
+*.pkl
+*.joblib
+*.bin
+
+# Data files (if they are large or temporary)
+data/
+dataset/
+
+# Any other local temporary files
+temp/
+tmp/
