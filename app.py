@@ -11,7 +11,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 app = FastAPI()
 
 # Load the trained model
-model = joblib.load("model_cbow.model")  # Adjust if using pickle or another format
+model = joblib.load("model_cbow.model")  # Adjust if using pickle or another format 
 
 # Define input schema
 class InputData(BaseModel):
