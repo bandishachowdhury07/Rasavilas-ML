@@ -1,5 +1,5 @@
 
-# 🍽️ Rasavilaas ML
+# 🍽️ Rasavilaas : A Pantry Service Application
 
 **Rasavilaas ML** is a modern machine learning project designed to deliver intelligent ingredient-based food recommendations. Leveraging the richness of Indian cuisine, the system combines NLP techniques with similarity-based learning to create a contextual and scalable recommendation engine. The project integrates a FastAPI backend and Jupyter-based exploratory workflows, making it suitable for both experimentation and deployment.
 
